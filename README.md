@@ -3,14 +3,17 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 
 ## Suggestions for tomorrow
 ### Choose one to add to habits or dailies.
-* Alternate between 12 pushups / crunches every ~20 mins, considering using workrave for timing.
+* three deep breathes every 20 mins
 
 ## Dailies
 ### Aesthetics
 * Read, ponder, and clearly enunciate two poems
 
 ## Habits
-
+### Health
+* Alternate between 12 pushups / crunches / planks every ~20 mins, considering using workrave for timing.
+   + [More ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
+   
 ## MOOCs
 ### Current
 #### Try for one section a day for each course.
