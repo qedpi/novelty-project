@@ -4,6 +4,7 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 ## Suggestions for tomorrow
 ### Choose one to add to habits or dailies.
 * three deep breathes every 20 mins
+* health: stretches after meal as first break segment
 
 ## Dailies
 ### Aesthetics
