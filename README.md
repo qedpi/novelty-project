@@ -3,8 +3,8 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 
 ## Suggestions for tomorrow
 ### Choose one to add to habits or dailies.
-* tweak: three deep breathes every 20 mins, before break exercise
 * tweak: stretches after meal as first break segment
+* add: daily 10 mins diary
 
 ## Dailies
 ### Aesthetics
@@ -13,6 +13,7 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 ## Habits
 ### Health
 * Alternate between 12 pushups / crunches / 1 min plank planks every ~20 mins, using workrave for timing
+   + take three deep breaths
    + [More exercise ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
    
 ## MOOCs
