@@ -5,6 +5,8 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 ### Choose one to add to habits or dailies.
 * tweak: stretches after meal as first break segment
 * 5 mins Arithmetic Practice
+* recall three grateful things before sleep
+* recall three funny things before sleep 
 
 ## Dailies
 ### Aesthetics
