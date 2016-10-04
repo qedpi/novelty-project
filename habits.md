@@ -4,9 +4,9 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 ## Suggestions for tomorrow
 ### Choose one to add to habits or dailies.
 * tweak: stretches after meal as first break segment
-* 5 mins Arithmetic Practice
 * recall three grateful things before sleep
 * recall three funny things before sleep 
+* make arithmetic practice spaced repped, ie hard ones get shown more frequently
 
 ## Dailies
 ### Aesthetics
@@ -19,7 +19,8 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
    + take three deep breaths
    + [More exercise ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
   
-
+### Spaced Repetition
+* 5 mins Arithmetic Practice
 
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
