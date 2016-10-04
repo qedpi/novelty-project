@@ -3,7 +3,6 @@
 #### Try for one section a day for each course.
 * [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info)
 * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics/home/welcome)
-* [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 
 ### Completed
 #### Ideally, useful courses should be space-rep't while learning.
@@ -13,3 +12,8 @@
 ### Space-rep'd
 #### Takes more time to learn, but lasts a lifetime.
 * [Introduction to UI Design](https://www.coursera.org/learn/ui-design/home/welcome)
+* [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
+
+### Assignments Todo
+#### Try to complete the assignments in these courses
+* [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
