@@ -7,6 +7,9 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 * recall three grateful things before sleep
 * recall three funny things before sleep 
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
+* rinse after each meal / snack
+* use redder setting for f.lux
+* limit light exposure 30 mins before sleep
 
 ## Dailies
 ### Aesthetics
