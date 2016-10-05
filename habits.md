@@ -9,6 +9,7 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * use redder setting for f.lux
 * limit light exposure 30 mins before sleep
+* 10 mins mindfulness meditation
 
 ## Dailies
 ### Aesthetics
@@ -27,6 +28,8 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
-* Frictors
+* Cobra: fighting right now
+* Modo
+* Axe
 
 ### Dead baddies
