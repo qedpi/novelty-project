@@ -7,7 +7,6 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 * recall three grateful things before sleep
 * recall three funny things before sleep 
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
-* rinse after each meal / snack
 * use redder setting for f.lux
 * limit light exposure 30 mins before sleep
 
@@ -21,7 +20,8 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 * Alternate between 12 pushups / crunches / 1 min plank planks every ~20 mins, using workrave for timing
    + take three deep breaths
    + [More exercise ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
-  
+* rinse after each meal / snack
+
 ### Spaced Repetition
 * 5 mins Arithmetic Practice
 
