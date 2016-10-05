@@ -10,6 +10,7 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 * use redder setting for f.lux
 * limit light exposure 30 mins before sleep
 * 10 mins mindfulness meditation
+* learn / understand better a new word
 
 ## Dailies
 ### Aesthetics
