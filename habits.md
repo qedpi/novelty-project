@@ -9,7 +9,6 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * use redder setting for f.lux
 * limit light exposure 30 mins before sleep
-* 10 mins mindfulness meditation
 * learn / understand better a new word
 
 ## Dailies
@@ -23,6 +22,7 @@ I attempt to take advantage of the polysemy behind the word `commit`, to have a 
    + take three deep breaths
    + [More exercise ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
 * rinse after each meal / snack
+* mindfulness meditation, 10 mins 
 
 ### Spaced Repetition
 * 5 mins Arithmetic Practice
