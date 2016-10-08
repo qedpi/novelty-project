@@ -1,4 +1,6 @@
-# Novelty Project
+# Habits Project
+> Excellence is a Habit -- Aristotle
+
 I attempt to take advantage of the polysemy behind the word `commit`, to have a version controlled list of habits that I seek to acquire. Each day, I will attempt to add a small goal, or resize an existing one. Each week, I will attempt to remove a bad habit. 
 
 Humor: if expected time to acquire a habit is 2 months, and excellence is a habit, excellence here I come =D
@@ -12,6 +14,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * limit light exposure 30 mins before sleep
 * learn / understand better a new word
 * daily exercise stretch
+* add learn a new song on the ukulele at least once a week
 
 ## Dailies
 ### Aesthetics
