@@ -5,13 +5,13 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 
 ## Suggestions for tomorrow
 ### Choose one to add to habits or dailies.
-* tweak: stretches after meal as first break segment
 * recall three grateful things before sleep
 * recall three funny things before sleep 
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * use redder setting for f.lux
 * limit light exposure 30 mins before sleep
 * learn / understand better a new word
+* daily exercise stretch
 
 ## Dailies
 ### Aesthetics
@@ -22,6 +22,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Health
 * Alternate between 12 pushups / crunches / 1 min plank planks every ~20 mins, using workrave for timing
    + take three deep breaths
+   + do stretches for first few sessions after meal
    + [More exercise ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
 * rinse after each meal / snack
 * mindfulness meditation, 10 mins 
