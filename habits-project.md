@@ -14,12 +14,12 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * limit light exposure 30 mins before sleep
 * learn / understand better a new word
 * daily exercise stretch
-* add learn a new song on the ukulele at least once a week
 
 ## Dailies
 ### Aesthetics
 * Read, ponder, and clearly enunciate two poems
 * Journal for 10 mins a day: self-expression
+* add learn a new song on the ukulele at least once a week
 
 ## Habits
 ### Health
@@ -39,7 +39,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
 * Cobra: fighting right now
-* Modo
-* Axe
+* Modo:
+* Axe: fighting right now
 
 ### Dead baddies
