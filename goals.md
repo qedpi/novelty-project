@@ -1,5 +1,8 @@
 # Goals
 
+## Today:
+* Complete & Implement: data structs course
+
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
 
