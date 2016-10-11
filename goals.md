@@ -1,14 +1,14 @@
 # Goals
 
 ## Weekly: Mon to Sun
-* Implement algorithms learned in Coursersa Courses
+* Complete & Implement: algos, toolkit, data structs, strings
 
 ## Monthy:
 * Improve SongCards & Whiteboard app
-* Finish other three algorithms courses
+* Complete & Implement: algos, toolkit, data structs, strings
 * Space rep Leetcode problems
 * Participate in Contests
-* Learn more react & Django
+* Learn more react, Django, Tensorflow
 
 ## Quarterly: Jan-Mar etc
 * Establish level III algorithmic knowledge
