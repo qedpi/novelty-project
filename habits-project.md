@@ -11,7 +11,6 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * use redder setting for f.lux
 * limit light exposure 30 mins before sleep
-* learn / understand better a new word
 * 10 minute yoga
 * facial exercises
 
@@ -39,6 +38,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 
 ### Learning
 * Speak Mandarin with Parents
+* learn / understand better a new word
 
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
