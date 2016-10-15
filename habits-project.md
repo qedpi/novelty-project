@@ -9,7 +9,6 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Choose one to add to habits or dailies.
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * limit light exposure 30 mins before sleep
-* 10 minute yoga
 * facial exercises
 
 ## Dailies
@@ -25,6 +24,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
    + do stretches for first few sessions after meal
    + [More exercise ideas here](http://www.fitnessmagazine.com/workout/exercise-ball/best-stability-ball-exercises/)
 * daily exercise stretch
+* 10 minute yoga
 * rinse after each meal / snack
 * use redder setting for f.lux at night
 
