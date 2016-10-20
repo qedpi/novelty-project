@@ -6,6 +6,7 @@
 * [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
 * [Data Structures](https://www.coursera.org/learn/data-structures)
+* [Probability & Data Intro](https://www.coursera.org/learn/probability-intro)
 
 ### Completed
 #### Ideally, useful courses should be space-rep't while learning.
