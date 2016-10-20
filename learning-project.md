@@ -7,6 +7,7 @@
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
 * [Data Structures](https://www.coursera.org/learn/data-structures)
 * [Probability & Data Intro](https://www.coursera.org/learn/probability-intro)
+* [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
 
 ### Completed
 #### Ideally, useful courses should be space-rep't while learning.
