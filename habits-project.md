@@ -9,7 +9,6 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Choose one to add to habits or dailies.
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * facial exercises
-* apply lotion after breakfast and before sleep: protect skin
 
 ## Dailies
 ### Aesthetics
@@ -30,6 +29,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * limit light exposure 30 mins before sleep
 * sleep before midnight
 * rise upon waking   
+* apply lotion after breakfast and before sleep: protect skin
 
 ### Mindfulness
 * mindfulness meditation, 10 mins 
