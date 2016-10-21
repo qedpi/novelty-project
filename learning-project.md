@@ -1,4 +1,8 @@
 ## MOOCs
+
+### Wishlist
+* [Game Theory](https://www.coursera.org/learn/game-theory-1/home/welcome)
+
 ### Current
 #### Try for one section a day for each course.
 * [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [Youtube](https://www.youtube.com/user/PeterVanRoy/playlists)
