@@ -20,7 +20,6 @@
 ### Space-rep'd
 #### Takes more time to learn, but lasts a lifetime.
 * [Introduction to UI Design](https://www.coursera.org/learn/ui-design/home/welcome)
-* [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 
 ### Assignments Todo
 #### Try to complete the assignments in these courses
