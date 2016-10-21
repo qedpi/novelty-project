@@ -15,6 +15,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * Read, ponder, and clearly enunciate two poems
 * Journal for 10 mins a day: self-expression
 * add learn a new song on the ukulele at least once a week
+* cool down between songs
 
 ## Habits
 ### Health
