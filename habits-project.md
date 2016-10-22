@@ -33,7 +33,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * apply lotion after breakfast and before sleep: protect skin
 
 ### Mindfulness
-* mindfulness meditation, 10 mins 
+* mindfulness meditation, 10 mins
 * recall three grateful things & three funny things daily
 
 ### Spaced Repetition
