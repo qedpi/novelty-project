@@ -42,7 +42,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 
 ### Learning
 * Speak Mandarin with Parents
-* learn / understand better a new word
+* learn / understand better a new word, using synonym discrimination & pronounciations
 
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
