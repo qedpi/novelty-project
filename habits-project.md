@@ -10,7 +10,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * make arithmetic practice spaced repped, ie hard ones get shown more frequently
 * facial exercises
 
-## Dailies
+## Habits
 ### Aesthetics
 * Read, ponder, and clearly enunciate two poems
 * Journal for 10 mins a day: ideation
@@ -18,7 +18,20 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * add learn a new song on the ukulele at least once a week
 * cool down between songs
 
-## Habits
+## Career
+* Review weekly, monthly, yearly goals at the end of the respective period
+
+### Mindfulness
+* mindfulness meditation, 10 mins
+* recall three grateful things & three funny things daily
+
+### Spaced Repetition
+* 5 mins Arithmetic Practice
+
+### Learning
+* Speak Mandarin with Parents
+* learn / understand better a new word, using synonym discrimination & pronounciations
+
 ### Health
 * Alternate between 12 pushups / crunches / 1 min plank planks every ~20 mins, using workrave for timing
    + take three deep breaths
@@ -32,17 +45,6 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * sleep before midnight
 * rise upon waking   
 * apply lotion after breakfast and before sleep: protect skin
-
-### Mindfulness
-* mindfulness meditation, 10 mins
-* recall three grateful things & three funny things daily
-
-### Spaced Repetition
-* 5 mins Arithmetic Practice
-
-### Learning
-* Speak Mandarin with Parents
-* learn / understand better a new word, using synonym discrimination & pronounciations
 
 ### Miscel
 * check for rolls 
