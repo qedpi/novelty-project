@@ -43,7 +43,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * use redder setting for f.lux at night
 * limit light exposure 30 mins before sleep
 * sleep before midnight
-* rise upon waking   
+* rise upon waking, do microstretch
 * apply lotion after breakfast and before sleep: protect skin
 
 ### Miscel
