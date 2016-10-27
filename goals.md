@@ -1,7 +1,7 @@
 # Goals
 
 ## Today:
-* Complete & Implement: data structs course
+* Complete & problemset + quiz: intro to cs 6.00 
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
