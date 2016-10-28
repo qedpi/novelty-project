@@ -18,11 +18,12 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * add learn a new song on the ukulele at least once a week
 * cool down between songs
 
-## Career
+### Career
 * Review weekly, monthly, yearly goals at the end of the respective period
 
 ### Mindfulness
-* mindfulness meditation, 10 mins
+* mindfulness meditation, ~10 mins
+* bodyscan meditation, ~10 mins
 * recall three grateful things & three funny things daily
 
 ### Spaced Repetition
