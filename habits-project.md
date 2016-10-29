@@ -19,7 +19,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * cool down between songs
 
 ### Career
-* Review weekly, monthly, yearly goals at the end of the respective period
+* Review daily, weekly, monthly, yearly goals at the end of the respective period
 
 ### Mindfulness
 * mindfulness meditation, ~10 mins
@@ -53,8 +53,9 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
 * Cobra: fighting right now
-* Modo:
+* Modo: fighting right now
 * Axe: fighting right now
-* Callouse:
+* Callouse: fighting right now
+* Checkers: fighting right now
 
 ### Dead baddies
