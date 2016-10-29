@@ -25,3 +25,4 @@
 #### Try to complete the assignments in these courses
 * [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 * [Probability & Data Intro](https://www.coursera.org/learn/probability-intro)
+* [Intro to CS: 6.00 MIT](https://www.youtube.com/watch?v=k6U-i4gXkLM)[course site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
