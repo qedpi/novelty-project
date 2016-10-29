@@ -1,7 +1,7 @@
 # Goals
 
 ## Today:
-* Complete & problemset + quiz: intro to cs 6.00 
+* Complete & problemset + quiz: Math for CS
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
