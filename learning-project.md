@@ -1,7 +1,6 @@
 ## MOOCs
 
 ### Wishlist
-* [Game Theory](https://www.coursera.org/learn/game-theory-1/home/welcome)
 
 ### Current
 #### Try for one section a day for each course.
@@ -11,6 +10,7 @@
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
 * [Data Structures](https://www.coursera.org/learn/data-structures)
 * [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
+* [Game Theory](https://www.coursera.org/learn/game-theory-1/home/welcome)
 
 ### Completed
 #### Ideally, useful courses should be space-rep't while learning.
