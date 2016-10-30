@@ -49,6 +49,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 
 ### Miscel
 * check for rolls 
+* one stream
 
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
