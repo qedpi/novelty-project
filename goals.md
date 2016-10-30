@@ -1,7 +1,7 @@
 # Goals
 
 ## Today:
-* Complete & problemset + quiz: Math for CS
+* Complete & problemset + quiz: Math for CS, second week of game theory.
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
