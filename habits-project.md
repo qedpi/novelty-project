@@ -13,10 +13,13 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ## Habits
 ### Aesthetics
 * Read, ponder, and clearly enunciate two poems
-* Journal for 10 mins a day: ideation
-* Diary for 10 mins a day: self-expression
 * add learn a new song on the ukulele at least once a week
 * cool down between songs
+
+### Journaling
+* Journal for 10 mins a day: ideation
+    * learning & goals component, update goals as appropo.
+* Diary for 10 mins a day: self-expression
 
 ### Career
 * Review daily, weekly, monthly, yearly goals at the end of the respective period
@@ -24,7 +27,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Mindfulness
 * mindfulness meditation, ~10 mins
 * bodyscan meditation, ~10 mins
-* recall three grateful things & three funny things daily
+* recall three grateful things & three funny things daily (in diary)
 
 ### Spaced Repetition
 * 5 mins Arithmetic Practice
@@ -50,6 +53,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Miscel
 * check for rolls 
 * one stream
+* lean & drop
 
 ## Bad Habits
 ### Nicknames, as no one wants to list bad habits
