@@ -4,7 +4,8 @@
 
 ### Current
 #### Try for one section a day for each course.
-* [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [Youtube](https://www.youtube.com/user/PeterVanRoy/playlists)
+* [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [YT](https://www.youtube.com/user/PeterVanRoy/playlists)
+* [I2CPx How to win coding competitions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info)
 * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 * [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
