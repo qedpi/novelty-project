@@ -27,6 +27,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Mindfulness
 * mindfulness meditation, ~10 mins
 * bodyscan meditation, ~10 mins
+* loving kindness meditation, ~10 mins
 * recall three grateful things & three funny things daily (in diary)
 
 ### Spaced Repetition
