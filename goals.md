@@ -1,10 +1,14 @@
 # Goals
 
 ## Today:
-* Complete & problemset + quiz: Math for CS, second week of game theory.
+* Third week game theory
+* Second week algo contests
+* Second unit math for cs
+* one week of paradigms
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
+* Complete & problemset + quiz: Math for CS
 
 ## Monthy:
 * Improve SongCards & Whiteboard app
