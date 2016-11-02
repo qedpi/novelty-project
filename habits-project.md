@@ -21,6 +21,9 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
     * learning & goals component, update goals as appropo.
 * Diary for 10 mins a day: self-expression
 
+### Motivation
+* Systematic P-Rewards
+
 ### Career
 * Review daily, weekly, monthly, yearly goals at the end of the respective period
 
