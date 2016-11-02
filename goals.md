@@ -1,7 +1,6 @@
 # Goals
 
 ## Today:
-* Third week game theory
 * Second week algo contests
 * Second unit math for cs
 * one week of paradigms
