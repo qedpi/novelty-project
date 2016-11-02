@@ -1,9 +1,8 @@
 # Goals
 
 ## Today:
-* Second week algo contests
-* Second unit math for cs
 * one week of paradigms
+* Second unit math for cs
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
