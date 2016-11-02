@@ -1,8 +1,10 @@
 # Goals
 
 ## Today:
-* one week of paradigms
-* Second unit math for cs
+* week of game theory: + quiz
+* week of paradigms: (assignments)
+* math for cs: fill in gaps videos & problem sets
+* week of contest algos
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
