@@ -1,9 +1,9 @@
 # Goals
 
 ## Today:
-* week of game theory: + quiz
-* week of paradigms: (assignments)
-* math for cs: fill in gaps videos & problem sets
+* (final) week of game theory: + quiz + final exam
+* week of paradigms: + (assignments)
+* math for cs: fill in gaps videos, + problemsets (later)
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings
