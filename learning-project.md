@@ -1,20 +1,21 @@
 ## MOOCs
 
 ### Wishlist
-* [Combinatorial Game Theory](https://www.coursera.org/learn/combinatorial-game-theory/home/welcome)
 * [Game Theory Advanced](https://www.coursera.org/learn/game-theory-2/home/welcome)
 
 
 ### Current
 #### Try for one section a day for each course.
+* [Combinatorial Game Theory](https://www.coursera.org/learn/combinatorial-game-theory/home/welcome)
 * [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [YT](https://www.youtube.com/user/PeterVanRoy/playlists)
 * [I2CPx How to win coding competitions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info)
+* [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
+
+
 * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 * [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings)
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
 * [Data Structures](https://www.coursera.org/learn/data-structures)
-* [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
-
 
 ### Completed
 #### Ideally, useful courses should be space-rep't while learning.
