@@ -14,7 +14,6 @@
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
 * [Data Structures](https://www.coursera.org/learn/data-structures)
 * [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
-* [Game Theory Intro](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
 
 
 ### Completed
@@ -32,3 +31,5 @@
 * [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 * [Probability & Data Intro](https://www.coursera.org/learn/probability-intro)
 * [Intro to CS: 6.00 MIT](https://www.youtube.com/watch?v=k6U-i4gXkLM)[course site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+* [Game Theory Intro](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
+
