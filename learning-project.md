@@ -1,6 +1,9 @@
 ## MOOCs
 
 ### Wishlist
+* [Combinatorial Game Theory](https://www.coursera.org/learn/combinatorial-game-theory/home/welcome)
+* [Game Theory Advanced](https://www.coursera.org/learn/game-theory-2/home/welcome)
+
 
 ### Current
 #### Try for one section a day for each course.
@@ -11,7 +14,8 @@
 * [Programming Languages](https://www.coursera.org/learn/programming-languages)
 * [Data Structures](https://www.coursera.org/learn/data-structures)
 * [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
-* [Game Theory](https://www.coursera.org/learn/game-theory-1/home/welcome)
+* [Game Theory Intro](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
+
 
 ### Completed
 #### Ideally, useful courses should be space-rep't while learning.
@@ -20,7 +24,8 @@
 
 ### Space-rep'd
 #### Takes more time to learn, but lasts a lifetime.
-* [Introduction to UI Design](https://www.coursera.org/learn/ui-design/home/welcome)
+* [UI Design Intro](https://www.coursera.org/learn/ui-design/home/welcome)
+* [Game Theory Intermediate](https://www.coursera.org/learn/game-theory-1/home/welcome)
 
 ### Assignments Todo
 #### Try to complete the assignments in these courses
