@@ -1,7 +1,6 @@
 # Goals
 
 ## Today:
-* (final) week of game theory: + quiz + final exam
 * week of paradigms: + (assignments)
 * math for cs: fill in gaps videos, + problemsets (later)
 
