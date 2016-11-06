@@ -23,7 +23,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 
 ### Motivation
 * Systematic P-Rewards
-* Auto Synthesis
+* Alter Ego
 
 ### Career
 * Review daily, weekly, monthly, yearly goals at the end of the respective period
@@ -40,6 +40,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Learning
 * Speak Mandarin with Parents
 * learn / understand better a new word, using synonym discrimination & pronounciations
+* attempt to incorporate these words in daily journal writing
 
 ### Health
 * Alternate between 12 pushups / crunches / 1 min plank planks every ~20 mins, using workrave for timing
