@@ -3,6 +3,11 @@
 ### Interested
 * [Combinatorial Game Theory](https://www.coursera.org/learn/combinatorial-game-theory/home/welcome)
 * [Game Theory Advanced](https://www.coursera.org/learn/game-theory-2/home/welcome)
+* [Hadoop](https://www.coursera.org/learn/hadoop/home/welcome)
+* [Cryptography](https://www.coursera.org/learn/crypto/home/welcome)
+* [Calc II](https://www.coursera.org/learn/advanced-calculus/home/welcome)
+* [Approximation Algos](https://www.coursera.org/learn/approximation-algorithms-part-1/home/welcome)
+* [Divide & Conquer & Randomizetion Algos](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome)
 
 ### On Hold
 * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
