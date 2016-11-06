@@ -14,7 +14,7 @@
 #### Try for one section a day for each course.
 * [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [YT](https://www.youtube.com/user/PeterVanRoy/playlists)
 * [I2CPx How to win coding competitions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info)
-* [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1)
+* [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1) [site](http://ocw.mit.edu/6-042JS15)
 
 ### To Review
 #### Ideally, useful courses should be space-rep't while learning.
