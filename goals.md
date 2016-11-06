@@ -1,10 +1,11 @@
 # Goals
 
 ## Today:
-* final week of paradigms: + (assignments) 
-* final week of programming contents & first week assignments 
-* math for cs: fill in gaps videos, + problemsets (later)
 * review
+* final week of paradigms: + (assignments) 
+* final week of programming contents
+* rest of math for cs
+* math for cs: fill in gaps videos, + problemsets (later)
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings, graphs
