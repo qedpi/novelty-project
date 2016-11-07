@@ -13,7 +13,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ## Habits
 ### Aesthetics
 * Read, ponder, and clearly enunciate two poems
-* >= 30 mins musc: learn a new song each day & play some old ones, cooling down between them
+* >= 30 mins music: learn a new song each day & play some old ones, cooling down between them
 * predict punchlines of jokes on late night shows
 
 ### Journaling
@@ -24,6 +24,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 ### Motivation
 * Systematic P-Rewards
 * Alter Ego
+* Distanced / Abstract Perspective
 
 ### Career
 * Review daily, weekly, monthly, yearly goals at the end of the respective period
