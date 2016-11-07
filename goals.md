@@ -2,10 +2,11 @@
 
 ## Today:
 * review
-* final week of paradigms: + (assignments) 
+* paradigm assignments
 * final week of programming contents
 * rest of math for cs
 * math for cs: fill in gaps videos, + problemsets (later)
+* microeconomics (break) week
 
 ## Weekly: Mon to Sun
 * Complete & Implement: algos, toolkit, data structs, strings, graphs
