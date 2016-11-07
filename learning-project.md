@@ -17,7 +17,6 @@
 
 ### Current
 #### Try for one section a day for each course.
-* [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [YT](https://www.youtube.com/user/PeterVanRoy/playlists)
 * [I2CPx How to win coding competitions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info)
 * [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1) [site](http://ocw.mit.edu/6-042JS15)
 
@@ -28,6 +27,7 @@
 
 ### Completed Review, Assignments Todo
 #### Try to complete the assignments in these courses
+* [Paradigms of Computer Programming: Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.1x+3T2016/info) [YT](https://www.youtube.com/user/PeterVanRoy/playlists)
 * [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox)
 * [Probability & Data I](https://www.coursera.org/learn/probability-intro)
 * [Intro to CS: 6.00 MIT](https://www.youtube.com/watch?v=k6U-i4gXkLM)[course site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
