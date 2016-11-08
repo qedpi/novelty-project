@@ -3,7 +3,6 @@
 ## Today:
 * review
 * paradigm assignments
-* final week of programming contents
 * rest of math for cs
 * math for cs: fill in gaps videos, + problemsets (later)
 * microeconomics (break) week
