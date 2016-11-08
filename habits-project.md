@@ -25,6 +25,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * Systematic P-Rewards
 * Alter Ego
 * Distanced / Abstract Perspective
+* Morning Smile   
 
 ### Career
 * Review daily, weekly, monthly, yearly goals at the end of the respective period
