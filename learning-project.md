@@ -17,7 +17,6 @@
 
 ### Current
 #### Try for one section a day for each course.
-* [I2CPx How to win coding competitions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info)
 * [Math for CS](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=1) [site](http://ocw.mit.edu/6-042JS15)
 * [intro to computational thinking](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_6+3T2016/courseware/8d9a47872ed641a1ace050f1c1ba7ac7/174f3c40d1ee4eb8b335860f0c94ed94/)
 * [Digital Circuits](https://courses.edx.org/courses/course-v1:MITx+6.004.1x_3+3T2016/courseware/c1/c1s1/)
@@ -35,6 +34,8 @@
 * [Probability & Data I](https://www.coursera.org/learn/probability-intro)
 * [Intro to CS: 6.00 MIT](https://www.youtube.com/watch?v=k6U-i4gXkLM)[course site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 * [Game Theory I](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
+* [I2CPx How to win coding competitions](https://courses.edx.org/courses/course-v1:ITMOx+I2CPx+3T2016/info)
+
 
 ### Fully Completed
 #### Takes more time to learn, but lasts a lifetime.
