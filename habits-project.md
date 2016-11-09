@@ -56,7 +56,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * limit light exposure 30 mins before sleep
 * sleep before midnight
 * rise upon waking, do microstretch
-* apply lotion after breakfast and before sleep: protect skin
+* apply lipbalm & lotion after breakfast and before sleep: protect skin
 
 ### Miscel
 * check for rolls 
