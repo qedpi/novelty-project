@@ -43,6 +43,7 @@ Humor: if expected time to acquire a habit is 2 months, and excellence is a habi
 * Speak Mandarin with Parents
 * learn / understand better a new word, using synonym discrimination & pronounciations
 * attempt to incorporate these words in daily journal writing
+* finish review before learning new material
 
 ### Health
 * Alternate between 12 pushups / crunches / 1 min plank planks every ~20 mins, using workrave for timing
